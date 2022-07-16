@@ -1,0 +1,17 @@
+caption{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.table{
+    margin: 40px auto;
+    width: 800px;
+    border-collapse: collapse;
+    text-align: center;
+
+    th,td{
+        height: 30px;
+        border: 1px solid black;
+    }
+
+}
